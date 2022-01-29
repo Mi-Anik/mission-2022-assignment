@@ -1,0 +1,131 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.content{
+    display: flex;
+    margin-top:100px;
+}
+h1{
+    font-size: 60px;
+    margin: 0 10px;
+}
+p{
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+.border{
+    border-left: 5px solid;
+    border-image: linear-gradient( lightsalmon, tomato) ;
+    border-image-slice: 1;
+    
+}
+.orenge{
+    color: orange;
+}
+.text{
+    width: 50%;
+    margin-left: 10%;
+}
+.pic{
+    width: 50%;
+    margin-left: 10%;
+}
+.pic img{
+    width: 70%;
+}
+.button{
+    margin-bottom: 50px;
+}
+.button a{
+    text-decoration: none;
+    padding: 15px 40px;
+    background-image: linear-gradient(lightsalmon, tomato);
+    border-radius: 7px;
+    color: white;
+    font-weight: 700;
+}
+.mid-content{
+    text-align: center;
+    margin-top: 100px;
+}
+.section{
+    display: flex;
+    margin-top: 50px;
+}
+.section1{
+    width:33.3%;
+    margin-left: 3%;
+    margin-right: 3%;
+    border: 1px solid white;
+    background: #ecf0f1;
+    border-radius: 30px;
+}
+.section1 img{
+    width: 35%;
+}
+.pic2 img{
+    width: 60%;
+    margin-left: 20%;
+}
+.text2{
+    margin-left: -5%;
+}
+
+
+
+
+
+.content3rd{
+    display: flex;
+    margin-top: 100px;
+}
+.pic3rd img{
+    width: 70%;
+    margin-left: 10%;
+}
+.text3rd{
+    margin-left: 10%;
+}
+.text3rd h2{
+    font-size: 40px;
+}
+.final h1{
+    text-align: center;
+    margin-top: 50px;
+}
+.content4th{
+    display: flex;
+    margin-top: 100px;
+}
+.pic4th{
+    width: 50%;
+}
+.text4th{
+    width: 50%;
+}
+.pic4th img{
+    width: 40%;
+    margin-left: 40%;
+}
+h2{
+    font-size: 50px;
+}
+.footer{
+    text-align: center;
+    background: black;
+    border-radius: 5px;
+    padding: 5px 0;
+    margin-top: 100px;
+}
+.footer h1{
+    color: white;
+    margin-top: 30px;
+}
+.red{
+    color: rgb(150, 25, 25);
+}
+.footer p{
+    color: white;
+}
